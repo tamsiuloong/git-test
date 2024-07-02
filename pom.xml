@@ -7,6 +7,7 @@
 	master
 	hotfix
 	组员提交
+	xxxx
     <groupId>com.yaorange</groupId>
     <artifactId>spring-data-redis-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
